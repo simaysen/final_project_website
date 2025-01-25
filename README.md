@@ -26,7 +26,7 @@ Hi-Kod Front-End Atölyesinin bitirme projesi
                         <a href="#" class="nav-link btn-custom">Ana Sayfa</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link btn-custom">Hakkımızda</a>
+                        <a href="Hakkımızda.html" class="nav-link btn-custom">Hakkımızda</a>
                     </li>
                     <li class="nav-item">
                         <a href="#" class="nav-link btn-custom">Vizyonumuz</a>
