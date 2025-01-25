@@ -1,0 +1,10 @@
+.hero .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Space between icons */
+    position: absolute; /* To fix at the bottom */
+    bottom: 20px; /* Distance from the bottom of the page */
+    left: 0;
+    right: 0;
+}
