@@ -8,3 +8,51 @@
     left: 0;
     right: 0;
 }
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f09ae7;
+}
+
+/* Hakkımızda bölümünün stil ayarları */
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    gap: 23px; /* Resim ve yazı arasındaki boşluk */
+}
+
+.about-image {
+    width: 55%;  /* Görselin genişliğini ayarlayın */
+    border-radius: 8px;
+    object-fit: cover; /* Görselin alanı tamamen doldurmasını sağlar */
+}
+
+.about-text {
+    width: 54%;
+}
+
+.about-text h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+.about-text p {
+    font-size: 18px;
+    color: #101010;
+    line-height: 2.0;
+}
