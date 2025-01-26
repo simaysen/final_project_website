@@ -14,11 +14,6 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f09ae7;
-}
-
 /* Hakkımızda bölümünün stil ayarları */
 .about-section {
     display: flex;
@@ -47,12 +42,12 @@ body {
 
 .about-text h2 {
     font-size: 28px;
-    color: #333;
+    color: #e245c5;
     margin-bottom: 25px;
 }
 
 .about-text p {
     font-size: 18px;
-    color: #101010;
+   color: #4b4a4a;
     line-height: 2.0;
 }
