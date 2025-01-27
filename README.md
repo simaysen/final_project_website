@@ -43,22 +43,22 @@ Hi-Kod Front-End Atölyesinin bitirme projesi
         <div class="container text-center">
             <div class="icon">
                 <a href="https://www.facebook.com/" target="_blank">
-                    <i class="fa-brands fa-facebook fa-2x bg-light text-dark p-3 rounded-circle"></i>
+                   <i class="fa-brands fa-facebook fa-2x " style="color: #ff66b2"></i>
                 </a>
             </div>
             <div class="icon text-center">
                 <a href="https://www.instagram.com/" target="_blank">
-                    <i class="fa-brands fa-instagram fa-2x bg-light text-dark p-3 rounded-circle"></i>
+                    <i class="fa-brands fa-instagram fa-2x" style="color:#ff66b2"></i>
                 </a>
             </div>
             <div class="icon text-center">
                 <a href="https://mail.google.com/" target="_blank">
-                    <i class="fa-regular fa-envelope fa-2x bg-light text-dark p-3 rounded-circle"></i>
+                    <i class="fa-regular fa-envelope fa-2x" style="color:#ff66b2"></i>
                 </a>
             </div>
             <div class="icon text-center">
                 <a href="https://twitter.com/" target="_blank">
-                    <i class="fa-brands fa-twitter fa-2x bg-light text-dark p-3 rounded-circle"></i>
+                    <i class="fa-brands fa-twitter fa-2x" style="color:#ff66b2"></i>
                 </a>
             </div>
         </div>
