@@ -14,7 +14,7 @@ Hi-Kod Front-End Atölyesinin bitirme projesi
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-md bg-dark navbar-dark p-4">
+    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #b12068;">
         <div class="container">
             <a href="#" class="navbar-brand">Birlikte Güçlüyüz</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
